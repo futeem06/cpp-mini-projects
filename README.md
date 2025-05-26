@@ -1,44 +1,49 @@
 # C++ Mini Projects by Fatima
 
 Welcome to my collection of simple and beginner-friendly C++ projects.  
-Each project is designed to demonstrate basic programming concepts using clean and readable code.
+Each project demonstrates essential programming concepts using clean and readable code.
 
 ---
 
-## Included Projects
+## 📌 Included Projects
 
 ### 1. Calculator
-A simple calculator program that performs basic arithmetic operations:
+A basic calculator that performs arithmetic operations:
 - Addition
 - Subtraction
 - Multiplication
 - Division
 
-User inputs two numbers and selects the desired operation.  
-[View Code](./calculator/calculator.cpp)
+🔗 [View Code](./calculator/calculator.cpp)
 
 ---
 
 ### 2. Student Grades Manager
-This program allows the user to:
-- Enter student names and their grades
-- Calculate the total and average grades
-- Find the highest and lowest grades along with the students who achieved them
+This program allows you to:
+- Enter student names and grades
+- Calculate total and average grades
+- Identify the highest and lowest grades with corresponding students
 
-[View Code](./students-grades/students-grades.cpp)
+🔗 [View Code](./students-grades/students-grades.cpp)
 
 ---
 
-## Future Additions (Coming Soon)
-- Multiplication table generator  
+### 3. Multiplication Table Generator
+Generates a multiplication table (from 1 to 10) for a user-provided number.
+
+🔗 [View Code](./multiplication-table/multiplication_table.cpp)
+
+---
+
+## 🙋‍♀️ About Me
+
+Hi, I'm **Fatima** — a passionate learner exploring the world of C++.  
+This repository is a part of my growing programming portfolio, and each project reflects a step forward in my coding journey.
+
+---
+
+## 🛠️ More projects coming soon!
+Stay tuned for:
 - Number guessing game  
 - Age classifier  
-- File-based student data storage
-
----
-
-## About Me
-My name is **Fatima**, and I'm passionate about learning programming and building useful projects with C++.  
-This repository is part of my personal coding portfolio.
-
-If you're interested in working with me or need a custom C++ script, feel free to reach out.
+- File-based student data manager
