@@ -31,7 +31,7 @@ This program allows you to:
 ### 3. Multiplication Table Generator
 Generates a multiplication table (from 1 to 10) for a user-provided number.
 
-🔗 [View Code](./multiplication-table/multiplication_table.cpp)
+🔗 [View Code](./multiplication/multiplication_table.cpp)
 
 ---
 
